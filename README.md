@@ -1,4 +1,4 @@
-# verbose-funicular
+# ODIN
 Learning HTML, CSS, and JS
 
 ## HTML
