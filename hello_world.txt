@@ -1,7 +1,0 @@
-This is a test file.
-
-1. Test
-2. Quiz
-3. Exam
-
-All Tests/Quizes/Exams are canceled until further notice.
